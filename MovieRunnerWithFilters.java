@@ -2,8 +2,8 @@
 /**
  * Write a description of MovieRunnerWithFilters here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Viet Duong
+ * @version October 8, 2020
  */
 
 import java.util.*;
